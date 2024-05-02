@@ -1,0 +1,597 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE pianominimal
+#TITLE 切踏
+#ARTIST A.T.M.
+#BPM 174
+#PLAYLEVEL 2
+#RANK 3
+#TOTAL 100
+#STAGEFILE 
+#DIFFICULTY 1
+
+#WAV01 kirifumi_bgm_00.wav
+#WAV02 kirifumi_bgm_01.wav
+#WAV03 kirifumi_bgm_02.wav
+#WAV04 kirifumi_key_02_00_000.wav
+#WAV05 kirifumi_key_02_00_008.wav
+#WAV06 kirifumi_key_02_00_012.wav
+#WAV07 kirifumi_key_02_00_016.wav
+#WAV08 kirifumi_key_02_00_023.wav
+#WAV09 kirifumi_key_02_00_031.wav
+#WAV0A kirifumi_key_02_00_035.wav
+#WAV0B kirifumi_key_02_00_039.wav
+#WAV0C kirifumi_key_02_00_067.wav
+#WAV0D kirifumi_key_02_00_075.wav
+#WAV0E kirifumi_key_02_00_079.wav
+#WAV0F kirifumi_key_02_00_080.wav
+#WAV0G kirifumi_key_02_00_081.wav
+#WAV0H kirifumi_key_02_00_082.wav
+#WAV0I kirifumi_key_01_00_001.wav
+#WAV0J kirifumi_key_01_00_002.wav
+#WAV0K kirifumi_key_01_00_003.wav
+#WAV0L kirifumi_key_01_00_004.wav
+#WAV0M kirifumi_key_01_00_005.wav
+#WAV0N kirifumi_key_01_00_006.wav
+#WAV0O kirifumi_key_01_00_007.wav
+#WAV0P kirifumi_key_01_00_008.wav
+#WAV0Q kirifumi_key_01_00_009.wav
+#WAV0R kirifumi_key_01_00_010.wav
+#WAV0S kirifumi_key_01_00_011.wav
+#WAV0T kirifumi_key_01_00_012.wav
+#WAV0U kirifumi_key_01_00_013.wav
+#WAV0V kirifumi_key_01_00_014.wav
+#WAV0W kirifumi_key_01_00_015.wav
+#WAV0X kirifumi_key_01_00_016.wav
+#WAV0Y kirifumi_key_01_00_017.wav
+#WAV0Z kirifumi_key_01_00_018.wav
+#WAV10 kirifumi_key_01_00_019.wav
+#WAV11 kirifumi_key_01_00_020.wav
+#WAV12 kirifumi_key_01_00_021.wav
+#WAV13 kirifumi_key_01_00_022.wav
+#WAV14 kirifumi_key_01_00_023.wav
+#WAV15 kirifumi_key_01_00_024.wav
+#WAV16 kirifumi_key_01_00_025.wav
+#WAV17 kirifumi_key_01_00_026.wav
+#WAV18 kirifumi_key_01_00_027.wav
+#WAV19 kirifumi_key_01_00_028.wav
+#WAV1A kirifumi_key_01_00_029.wav
+#WAV1B kirifumi_key_01_00_030.wav
+#WAV1C kirifumi_key_01_00_031.wav
+#WAV1D kirifumi_key_01_00_032.wav
+#WAV1E kirifumi_key_01_00_033.wav
+#WAV1F kirifumi_key_01_00_034.wav
+#WAV1G kirifumi_key_01_00_035.wav
+#WAV1H kirifumi_key_01_00_036.wav
+#WAV1I kirifumi_key_01_00_037.wav
+#WAV1J kirifumi_key_01_00_038.wav
+#WAV1K kirifumi_key_01_00_039.wav
+#WAV1L kirifumi_key_01_00_040.wav
+#WAV1M kirifumi_key_01_00_041.wav
+#WAV1N kirifumi_key_01_00_042.wav
+#WAV1O kirifumi_key_01_00_043.wav
+#WAV1P kirifumi_key_01_00_044.wav
+#WAV1Q kirifumi_key_01_00_045.wav
+#WAV1R kirifumi_key_01_00_046.wav
+#WAV1S kirifumi_key_01_00_047.wav
+#WAV1T kirifumi_key_01_00_048.wav
+#WAV1U kirifumi_key_01_00_049.wav
+#WAV1V kirifumi_key_01_00_050.wav
+#WAV1W kirifumi_key_01_00_051.wav
+#WAV1X kirifumi_key_01_00_052.wav
+#WAV1Y kirifumi_key_01_00_053.wav
+#WAV1Z kirifumi_key_01_00_054.wav
+#WAV20 kirifumi_key_01_00_055.wav
+#WAV21 kirifumi_key_01_00_056.wav
+#WAV22 kirifumi_key_01_00_057.wav
+#WAV23 kirifumi_key_01_00_058.wav
+#WAV24 kirifumi_key_01_00_059.wav
+#WAV25 kirifumi_key_01_00_060.wav
+#WAV26 kirifumi_key_01_00_061.wav
+#WAV27 kirifumi_key_01_00_062.wav
+#WAV28 kirifumi_key_01_00_063.wav
+#WAV29 kirifumi_key_01_00_064.wav
+#WAV2A kirifumi_key_01_00_065.wav
+#WAV2B kirifumi_key_01_00_066.wav
+#WAV2C kirifumi_key_01_00_067.wav
+#WAV2D kirifumi_key_01_00_068.wav
+#WAV2E kirifumi_key_01_00_069.wav
+#WAV2F kirifumi_key_01_00_070.wav
+#WAV2G kirifumi_key_01_00_071.wav
+#WAV2H kirifumi_key_01_00_072.wav
+#WAV2I kirifumi_key_01_00_073.wav
+#WAV2J kirifumi_key_01_00_074.wav
+#WAV2K kirifumi_key_01_00_075.wav
+#WAV2L kirifumi_key_01_00_076.wav
+#WAV2M kirifumi_key_01_00_077.wav
+#WAV2N kirifumi_key_01_00_078.wav
+#WAV2O kirifumi_key_01_00_079.wav
+#WAV2P kirifumi_key_01_00_080.wav
+#WAV2Q kirifumi_key_01_00_081.wav
+#WAV2R kirifumi_key_01_00_082.wav
+#WAV2S kirifumi_key_01_00_083.wav
+#WAV2T kirifumi_key_01_00_084.wav
+#WAV2U kirifumi_key_01_00_085.wav
+#WAV2V kirifumi_key_01_00_086.wav
+#WAV2W kirifumi_key_01_00_087.wav
+#WAV2X kirifumi_key_01_00_088.wav
+#WAV2Y kirifumi_key_01_00_089.wav
+#WAV2Z kirifumi_key_01_00_090.wav
+#WAV30 kirifumi_key_01_00_091.wav
+#WAV31 kirifumi_key_01_00_092.wav
+#WAV32 kirifumi_key_01_00_093.wav
+#WAV33 kirifumi_key_01_00_094.wav
+#WAV34 kirifumi_key_01_00_095.wav
+#WAV35 kirifumi_key_01_00_096.wav
+#WAV36 kirifumi_key_01_00_097.wav
+#WAV37 kirifumi_key_01_00_098.wav
+#WAV38 kirifumi_key_01_00_099.wav
+#WAV39 kirifumi_key_01_00_100.wav
+#WAV3A kirifumi_key_01_00_101.wav
+#WAV3B kirifumi_key_01_00_102.wav
+#WAV3C kirifumi_key_01_00_103.wav
+#WAV3D kirifumi_key_01_00_104.wav
+#WAV3E kirifumi_key_01_00_105.wav
+#WAV3F kirifumi_key_01_00_106.wav
+#WAV3G kirifumi_key_01_00_107.wav
+#WAV3H kirifumi_key_01_00_108.wav
+#WAV3I kirifumi_key_01_00_109.wav
+#WAV3J kirifumi_key_01_00_110.wav
+#WAV3K kirifumi_key_01_00_111.wav
+#WAV3L kirifumi_key_01_00_112.wav
+#WAV3M kirifumi_key_01_00_113.wav
+#WAV3N kirifumi_key_01_00_114.wav
+#WAV3O kirifumi_key_01_00_115.wav
+#WAV3P kirifumi_key_01_00_116.wav
+#WAV3Q kirifumi_key_01_00_117.wav
+#WAV3R kirifumi_key_01_00_118.wav
+#WAV3S kirifumi_key_01_00_119.wav
+#WAV3T kirifumi_key_01_00_120.wav
+#WAV3U kirifumi_key_01_00_121.wav
+#WAV3V kirifumi_key_01_00_122.wav
+#WAV3W kirifumi_key_01_00_123.wav
+#WAV3X kirifumi_key_01_00_124.wav
+#WAV3Y kirifumi_key_01_00_125.wav
+#WAV3Z kirifumi_key_01_00_126.wav
+#WAV40 kirifumi_key_01_00_127.wav
+#WAV41 kirifumi_key_01_00_128.wav
+#WAV42 kirifumi_key_01_00_129.wav
+#WAV43 kirifumi_key_01_00_130.wav
+#WAV44 kirifumi_key_01_00_131.wav
+#WAV45 kirifumi_key_01_00_132.wav
+#WAV46 kirifumi_key_01_00_133.wav
+#WAV47 kirifumi_key_01_00_134.wav
+#WAV48 kirifumi_key_01_00_135.wav
+#WAV49 kirifumi_key_01_00_136.wav
+#WAV4A kirifumi_key_01_00_137.wav
+#WAV4B kirifumi_key_01_00_138.wav
+#WAV4C kirifumi_key_01_00_139.wav
+#WAV4D kirifumi_key_01_00_140.wav
+#WAV4E kirifumi_key_01_00_141.wav
+#WAV4F kirifumi_key_01_00_142.wav
+#WAV4G kirifumi_key_01_00_143.wav
+#WAV4H kirifumi_key_01_00_144.wav
+#WAV4I kirifumi_key_01_00_145.wav
+#WAV4J kirifumi_key_01_00_146.wav
+#WAV4K kirifumi_key_01_00_147.wav
+#WAV4L kirifumi_key_01_00_148.wav
+#WAV4M kirifumi_key_01_00_149.wav
+#WAV4N kirifumi_key_01_00_150.wav
+#WAV4O kirifumi_key_01_00_151.wav
+#WAV4P kirifumi_key_01_00_152.wav
+#WAV4Q kirifumi_key_01_00_153.wav
+#WAV4R kirifumi_key_01_00_154.wav
+#WAV4S kirifumi_key_01_00_155.wav
+#WAV4T kirifumi_key_01_00_156.wav
+#WAV4U kirifumi_key_01_00_157.wav
+#WAV4V kirifumi_key_01_00_158.wav
+#WAV4W kirifumi_key_01_00_159.wav
+#WAV4X kirifumi_key_01_00_160.wav
+#WAV4Y kirifumi_key_01_00_161.wav
+#WAV4Z kirifumi_key_01_00_162.wav
+#WAV50 kirifumi_key_01_00_163.wav
+#WAV51 kirifumi_key_01_00_164.wav
+#WAV52 kirifumi_key_01_00_165.wav
+#WAV53 kirifumi_key_01_00_166.wav
+#WAV54 kirifumi_key_01_00_167.wav
+#WAV55 kirifumi_key_01_00_168.wav
+#WAV56 kirifumi_key_01_00_169.wav
+#WAV57 kirifumi_key_01_00_170.wav
+#WAV58 kirifumi_key_01_00_171.wav
+#WAV59 kirifumi_key_01_00_172.wav
+#WAV5A kirifumi_key_01_00_173.wav
+#WAV5B kirifumi_key_01_00_174.wav
+#WAV5C kirifumi_key_01_00_175.wav
+#WAV5D kirifumi_key_01_00_176.wav
+#WAV5E kirifumi_key_01_00_177.wav
+#WAV5F kirifumi_key_01_00_178.wav
+#WAV5G kirifumi_key_01_00_179.wav
+#WAV5H kirifumi_key_01_00_180.wav
+#WAV5I kirifumi_key_01_00_181.wav
+#WAV5J kirifumi_key_01_00_182.wav
+#WAV5K kirifumi_key_01_00_183.wav
+#WAV5L kirifumi_key_01_00_184.wav
+#WAV5M kirifumi_key_01_00_185.wav
+#WAV5N kirifumi_key_01_00_186.wav
+#WAV5O kirifumi_key_01_00_187.wav
+#WAV5P kirifumi_key_01_00_188.wav
+#WAV5Q kirifumi_key_01_00_189.wav
+#WAV5R kirifumi_key_01_00_190.wav
+#WAV5S kirifumi_key_01_00_191.wav
+#WAV5T kirifumi_key_01_00_192.wav
+#WAV5U kirifumi_key_01_00_193.wav
+#WAV5V kirifumi_key_01_00_194.wav
+#WAV5W kirifumi_key_01_00_195.wav
+#WAV5X kirifumi_key_01_00_196.wav
+#WAV5Y kirifumi_key_01_00_197.wav
+#WAV5Z kirifumi_key_01_00_198.wav
+#WAV60 kirifumi_key_01_00_199.wav
+#WAV61 kirifumi_key_01_00_200.wav
+#WAV62 kirifumi_key_01_00_201.wav
+#WAV63 kirifumi_key_01_00_202.wav
+#WAV64 kirifumi_key_01_00_203.wav
+#WAV65 kirifumi_key_01_00_204.wav
+#WAV66 kirifumi_key_01_00_205.wav
+#WAV67 kirifumi_key_01_00_206.wav
+#WAV68 kirifumi_key_01_00_207.wav
+#WAV69 kirifumi_key_01_00_208.wav
+#WAV6A kirifumi_key_01_00_209.wav
+#WAV6B kirifumi_key_01_00_210.wav
+#WAV6C kirifumi_key_01_00_211.wav
+#WAV6D kirifumi_key_01_00_212.wav
+#WAV6E kirifumi_key_01_00_213.wav
+#WAV6F kirifumi_key_01_00_214.wav
+#WAV6G kirifumi_key_01_00_215.wav
+#WAV6H kirifumi_key_01_00_216.wav
+#WAV6I kirifumi_key_01_00_217.wav
+#WAV6J kirifumi_key_01_00_218.wav
+#WAV6K kirifumi_key_01_00_219.wav
+#WAV6L kirifumi_key_01_00_220.wav
+#WAV6M kirifumi_key_01_00_221.wav
+#WAV6N kirifumi_key_01_00_222.wav
+#WAV6O kirifumi_key_01_00_223.wav
+#WAV6P kirifumi_key_01_00_224.wav
+#WAV6Q kirifumi_key_01_00_225.wav
+#WAV6R kirifumi_key_01_00_226.wav
+#WAV6S kirifumi_key_01_00_227.wav
+#WAV6T kirifumi_key_01_00_228.wav
+#WAV6U kirifumi_key_01_00_229.wav
+#WAV6V kirifumi_key_01_00_230.wav
+#WAV6W kirifumi_key_01_00_231.wav
+#WAV6X kirifumi_key_01_00_232.wav
+#WAV6Y kirifumi_key_01_00_233.wav
+#WAV6Z kirifumi_key_01_00_234.wav
+#WAV70 kirifumi_key_01_00_235.wav
+#WAV71 kirifumi_key_01_00_236.wav
+#WAV72 kirifumi_key_01_00_237.wav
+#WAV73 kirifumi_key_01_00_238.wav
+#WAV74 kirifumi_key_01_00_239.wav
+#WAV75 kirifumi_key_01_00_240.wav
+#WAV76 kirifumi_key_01_00_241.wav
+#WAV77 kirifumi_key_01_00_242.wav
+#WAV78 kirifumi_key_01_00_243.wav
+#WAV79 kirifumi_key_01_00_244.wav
+#WAV7A kirifumi_key_01_00_245.wav
+#WAV7B kirifumi_key_01_00_246.wav
+#WAV7C kirifumi_key_01_00_247.wav
+#WAV7D kirifumi_key_01_00_248.wav
+#WAV7E kirifumi_key_01_00_249.wav
+#WAV7F kirifumi_key_01_00_250.wav
+#WAV7G kirifumi_key_01_00_251.wav
+#WAV7H kirifumi_key_01_00_252.wav
+#WAV7I kirifumi_key_01_00_253.wav
+#WAV7J kirifumi_key_01_00_254.wav
+#WAV7K kirifumi_key_01_00_255.wav
+#WAV7L kirifumi_key_01_00_256.wav
+#WAV7M kirifumi_key_01_00_257.wav
+#WAV7N kirifumi_key_01_00_258.wav
+#WAV7O kirifumi_key_01_00_259.wav
+#WAV7P kirifumi_key_01_00_260.wav
+#WAV7Q kirifumi_key_01_00_261.wav
+#WAV7R kirifumi_key_01_00_262.wav
+#WAV7S kirifumi_key_01_00_263.wav
+#WAV7T kirifumi_key_01_00_264.wav
+#WAV7U kirifumi_key_01_00_265.wav
+#WAV7V kirifumi_key_01_00_266.wav
+#WAV7W kirifumi_key_01_00_267.wav
+#WAV7X kirifumi_key_01_00_268.wav
+#WAV7Y kirifumi_key_01_00_269.wav
+#WAV7Z kirifumi_key_01_00_270.wav
+#WAV80 kirifumi_key_01_00_271.wav
+#WAV81 kirifumi_key_01_00_272.wav
+#WAV82 kirifumi_key_01_00_273.wav
+#WAV83 kirifumi_key_01_00_274.wav
+#WAV84 kirifumi_key_01_00_275.wav
+#WAV85 kirifumi_key_01_00_276.wav
+#WAV86 kirifumi_key_01_00_277.wav
+#WAV87 kirifumi_key_01_00_278.wav
+#WAV88 kirifumi_key_01_00_279.wav
+#WAV89 kirifumi_key_01_00_280.wav
+#WAV8A kirifumi_key_01_00_281.wav
+#WAV8B kirifumi_key_01_00_282.wav
+#WAV8C kirifumi_key_01_00_283.wav
+#WAV8D kirifumi_key_01_00_284.wav
+#WAV8E kirifumi_key_01_00_285.wav
+#WAV8F kirifumi_key_01_00_286.wav
+#WAV8G kirifumi_key_01_00_287.wav
+#WAV8H kirifumi_key_01_00_288.wav
+#WAV94 kirifumi_key_02_00_000.wav
+#WAV95 kirifumi_key_02_00_008.wav
+#WAV96 kirifumi_key_02_00_012.wav
+#WAV97 kirifumi_key_02_00_016.wav
+#WAV98 kirifumi_key_02_00_023.wav
+#WAV99 kirifumi_key_02_00_031.wav
+#WAV9A kirifumi_key_02_00_035.wav
+#WAV9B kirifumi_key_02_00_039.wav
+#WAV9C kirifumi_key_02_00_067.wav
+#WAV9D kirifumi_key_02_00_075.wav
+
+#BMP01 kirifumi.wmv
+
+
+
+
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00101:01
+#00104:01
+#00112:04
+#00122:0004
+
+#00212:94
+#00222:0094
+
+#00312:04
+#00322:0004
+
+#00412:94
+#00422:0094
+
+#00512:04
+#00522:0004
+
+#00612:94
+#00622:0094
+
+#00712:04
+#00722:0004
+
+#00812:94
+#00822:0094
+
+#00915:05
+#00925:0005
+
+#01015:95
+#01025:0095
+
+#01115:05
+#01125:0005
+
+#01215:95
+#01225:0095
+
+#01311:06
+#01321:0006
+
+#01411:96
+#01421:0096
+
+#01511:06
+#01521:0006
+
+#01611:96
+#01621:0096
+
+#01714:07
+#01724:0007
+
+#01814:97
+#01824:0097
+
+#01914:07
+#01924:0007
+
+#02014:97
+#02024:0097
+
+#02111:06
+#02121:0006
+
+#02211:96
+#02221:0096
+
+#02311:06
+#02321:0006
+
+#02411:96
+#02421:0096
+
+#02501:02
+#02512:08
+#02522:0008
+
+#02612:98
+#02622:0098
+
+#02712:08
+#02722:0008
+
+#02812:98
+#02822:0098
+
+#02912:08
+#02922:0008
+
+#03012:98
+#03022:0098
+
+#03112:08
+#03122:0008
+
+#03212:98
+#03222:0098
+
+#03315:09
+#03325:0009
+
+#03415:99
+#03425:0099
+
+#03515:09
+#03525:0009
+
+#03615:99
+#03625:0099
+
+#03716:0A
+#03726:000A
+
+#03816:9A
+#03826:009A
+
+#03916:0A
+#03926:000A
+
+#04016:9A
+#04026:009A
+
+#04114:0B
+#04124:000B
+
+#04214:9B
+#04224:009B
+
+#04314:0B
+#04324:000B
+
+#04414:9B
+#04424:009B
+
+#04514:0B
+#04524:000B
+
+#04614:9B
+#04624:009B
+
+#04714:0B
+#04724:000B
+
+#04814:9B
+#04824:009B
+
+#04912:04
+#04922:0004
+
+#05012:94
+#05022:0094
+
+#05112:04
+#05122:0004
+
+#05212:94
+#05222:0094
+
+#05312:04
+#05322:0004
+
+#05412:94
+#05422:0094
+
+#05512:04
+#05522:0004
+
+#05612:94
+#05622:0094
+
+#05701:03
+#05715:05
+#05725:0005
+
+#05815:95
+#05825:0095
+
+#05915:05
+#05925:0005
+
+#06015:95
+#06025:0095
+
+#06111:06
+#06121:0006
+
+#06211:96
+#06221:0096
+
+#06311:06
+#06321:0006
+
+#06411:96
+#06421:0096
+
+#06514:07
+#06524:0007
+
+#06614:97
+#06624:0097
+
+#06714:07
+#06724:0007
+
+#06814:97
+#06824:0097
+
+#06912:0C
+#06922:000C
+
+#07012:9C
+#07022:009C
+
+#07112:0C
+#07122:000C
+
+#07212:9C
+#07222:009C
+
+#07312:0C
+#07322:000C
+
+#07412:9C
+#07422:009C
+
+#07512:0C
+#07522:000C
+
+#07612:9C
+#07622:009C
+
+#07714:0D
+#07724:000D
+
+#07814:9D
+#07824:009D
+
+#07914:0D
+#07924:000D
+
+#08014:9D
+#08024:009D
+
+#08115:0E
+#08125:000E
+
+#08215:0F
+#08225:000F
+
+#08315:0G
+#08325:000G
+
+#08415:0H
+#08425:000H
+
